@@ -1,4 +1,4 @@
-### OIEEEEE! Eu sou a Julia Goveia ☺
+### OIEEEEE! Eu sou a Julia ☺
 
 💻 Estudante de ciências da computação
 
