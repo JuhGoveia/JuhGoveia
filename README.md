@@ -1,6 +1,7 @@
 ### OIEEEEE! Eu sou a Ju ☺
 
-💻 Estudante de ciências da computação
+👨‍💻 Formada em de ciências da computação
+⚛ Estudante de Data Science e IA
 
 <div align="center">
   <a href="https://juhgoveia.github.io/Portfolio/">
