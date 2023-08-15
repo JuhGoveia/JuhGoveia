@@ -1,7 +1,7 @@
 ### OIEEEEE! Eu sou a Ju ☺
 
 👨‍💻 Formada em de ciências da computação
-\n
+##
 ⚛ Estudante de Data Science e IA
 
 <div align="center">
