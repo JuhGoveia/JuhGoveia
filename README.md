@@ -1,7 +1,7 @@
 ### OIEEEEE! Eu sou a Ju ☺
 
-👨‍💻 Formada em de ciências da computação <br>
-⚛ Estudante de Data Science e IA
+👨‍💻 Formada em ciências da computação <br>
+⚛  Formada em Data Science e IA
 
 <div align="center">
   <a href="https://juhgoveia.github.io/Portfolio/">
@@ -29,7 +29,7 @@
   
   <div> 
     <a href = "mailto:juliagoveia13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/julia-goveia-143a62158/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="www.linkedin.com/in/julia-goveia-143a62158" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
     
     
